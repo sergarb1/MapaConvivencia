@@ -1,0 +1,28 @@
+{
+  "name": "MapaConvivencia - Gestión de Convivencia Escolar",
+  "short_name": "MapaConvivencia",
+  "description": "Mapas de calor para registrar y analizar la convivencia escolar",
+  "start_url": "/MapaConvivencia/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/MapaConvivencia/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/MapaConvivencia/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/MapaConvivencia/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
